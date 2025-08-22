@@ -1,0 +1,6 @@
+scapy
+pyyaml
+streamlit
+pandas
+requests
+
